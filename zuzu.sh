@@ -3353,7 +3353,7 @@ clear
 echo "EXIT EASY HACK TOOL...............\ "
 sleep 0.1
 clear
-echo -e "\033[1;91mzaki sabri  wish you all the best ♡ you all "
+echo -e "\033[1;91m ZuH@ck  wish you all the best ♡ you all "
 sleep 3
 clear 
 exit

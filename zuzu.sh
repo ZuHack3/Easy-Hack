@@ -90,7 +90,7 @@ read username
 echo "Enter password" 
 read password
 
-if [[ ( $username == "MAHRT" && $password == "ZuH@ck" ) ]]; then
+if [[ ( $username == "MART" && $password == "ZuH@ck" ) ]]; then
 echo "valid user" 
 clear
 
